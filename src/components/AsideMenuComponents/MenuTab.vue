@@ -1,6 +1,6 @@
 <template>
   <div
-    class="w-full h-[40px] bg-[#DCDCDC]"
+    class="w-full h-[40px] bg-[#EEEEEE] rounded flex items-center justify-center hover:cursor-pointer"
   >
     <span>{{ name }}</span>
   </div>
